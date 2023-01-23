@@ -18,6 +18,7 @@
     "@nuxt/content": "^1.0.0",
     "@nuxtjs/axios": "^5.13.6",
     "@nuxtjs/pwa": "^3.3.5",
+    "@types/jest": "^29.2.6",
     "core-js": "^3.25.3",
     "lint": "^0.8.19",
     "nuxt": "^2.15.8",
